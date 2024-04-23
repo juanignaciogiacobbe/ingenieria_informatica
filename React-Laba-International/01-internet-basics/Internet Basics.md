@@ -13,6 +13,7 @@
 - They’re extra parameters provided to the Web server. A list of key/value pairs separated with the & symbol.
 - An # represents a sort of "bookmark" inside the resource, giving the browser the directions to show the content located at that "bookmarked" spot.
 
-[[Domain Name System]]
+[[DNS]]
 [[Client-Server-Architecture]]
-[[Transmission Control Protocol]]
+[[TCP]]
+[[HTTP]]

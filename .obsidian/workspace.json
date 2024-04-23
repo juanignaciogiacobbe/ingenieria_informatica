@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "12de6c6b23bd5c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f00dbd6b7c335a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bffcc7b212d3a522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base de Datos/Base de Datos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a75c18aa45b81b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f258df4f6a3a0b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abe3c4b24624fbba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1cb8c12438b2bb45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0dff96940e77363a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd7174f5932a8da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c408683b843fb1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067b914cefb90927",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base de Datos/Base de Datos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c4e39b3aa33d464",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base de Datos/Base de Datos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00d078b108177e13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12c46dea1a8167ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base de Datos/Base de Datos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bffcc7b212d3a522",
+  "lastOpenFiles": [
+    "Base de Datos/Algebra Relacional.md",
+    "Base de Datos/Modelo Entidad-Interrelacion.md",
+    "React-Laba-International/React-Laba-International.md",
+    "React-Laba-International/03-HTML/HTML.md",
+    "React-Laba-International/01-internet-basics/Internet Basics.md",
+    "React-Laba-International/02-Git/Git.md",
+    "React-Laba-International/03-HTML",
+    "React-Laba-International/01-internet-basics/HTTP.md",
+    "React-Laba-International/01-internet-basics/DNS.md",
+    "React-Laba-International/01-internet-basics/TCP.md",
+    "React-Laba-International/01-internet-basics/Client-Server-Architecture.md",
+    "Taller de Programacion/Taller de Programacion.md",
+    "Taller de Programacion/Redes/Introduccion a Redes.md",
+    "img/osi_vs_tcp9Uug7B.png",
+    "img/osi_model.png",
+    "img/Pasted image 20240423090432.png",
+    "img/Pasted image 20240421183512.png",
+    "img/Pasted image 20240421183102.png",
+    "img/Pasted image 20240421182629.png",
+    "img/Pasted image 20240423082221.png",
+    "img/Pasted image 20240423081103.png",
+    "img/Pasted image 20240422091819.png",
+    "img/Pasted image 20240421185159.png",
+    "img",
+    "Base de Datos/Base de Datos.md",
+    "Base de Datos/Arquitectura de 3 capas ANSI.md",
+    "Sistemas Operativos/Kernel.md",
+    "Taller de Programacion/Concurrencia/Concurrencia.md",
+    "Taller de Programacion/Redes",
+    "Taller de Programacion/Concurrencia/Theads.md",
+    "Sistemas Operativos/Proceso.md",
+    "Sistemas Operativos/Virtualizacion.md",
+    "Sistemas Operativos/User-mode y Kernel-mode.md",
+    "Sistemas Operativos/Pegamento.md",
+    "Sistemas Operativos/Sistemas Operativos(SO).md"
+  ]
+}

@@ -24,5 +24,5 @@ En sistemas de proposito general, los usuarios interactuan con aplicaciones, las
 
 - [[Dual-mode Operation]]
 - [[Proceso]]
-- [[El Kernel]]
+- [[Kernel]]
 - [[Scheduling]]

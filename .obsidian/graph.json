@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Empresa de Base Tecnologica\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6246606
+      }
+    },
+    {
+      "query": "path:\"Sistemas Operativos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1829912
+      }
+    },
+    {
+      "query": "path:\"Base de Datos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5799436
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 0.891145833333333,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6666666666666661,
+  "close": true
+}

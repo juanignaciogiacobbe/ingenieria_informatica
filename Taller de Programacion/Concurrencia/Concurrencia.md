@@ -23,4 +23,15 @@
 
 ![[Pasted image 20240423082221.png]]
 
-Hay que tener en cuenta todos los intercalamientos posibles de las instrucciones atomicas.
+- Hay que tener en cuenta todos los <span style="color:#ffff00">intercalamientos</span> posibles de las instrucciones atomicas.
+- Hay necesidad de <span style="color:#ffff00">sincronizar</span>(coordinacion temporal) y <span style="color:#ffff00">comunicar</span>(datos compartidos) procesos diferentes.
+
+## <span style="color:#c00000">Problemas de la Concurrencia</span> 
+- <span style="color:#ffff00">Condiciones de carrera</span>: Los hilos de ejecucion del programa acceden a datos o recursos de forma inconsistente. La salida del programa depende del orden de ejecucion de las instrucciones atomicas de los procesos, convirtiendose en una <span style="color:#ffff00">salida no deterministica</span>.
+- <span style="color:#ffff00">Deadlocks</span>: Donde dos hilos de ejecucion estan esperando el uno por el otro para avanzar, requiriendo de un recurso que el otro tiene, previniendo que ambos avancen. No hay progreso productivo.
+
+## <span style="color:#c00000">Concurrencia en Rust</span> 
+- El mecanismo de Ownership y el sistema de tipos de Rust previene los problemas de la Concurrencia en tiempo de compilacion.
+- Los errores se manifiestan en tiempo de compilacion -> fearless concurrency.
+- Para mapear [[Theads]] existen dos modelos: green threads y los threads del SO.
+- " Do not communicate by sharing memory; instead, share memory by communicating".
