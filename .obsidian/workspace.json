@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "78f00dbd6b7c335a",
+        "id": "ddc865f2f6b405b3",
         "type": "tabs",
         "children": [
           {
-            "id": "bffcc7b212d3a522",
+            "id": "79da4b58bbda4a0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base de Datos/Base de Datos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Datos/Base de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Datos/Base de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base de Datos/Base de Datos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bffcc7b212d3a522",
+  "active": "79da4b58bbda4a0c",
   "lastOpenFiles": [
+    "Taller de Programacion/Rustic City Eye.md",
+    "Pasted image 20240425075842.png",
+    "Pasted image 20240425075818.png",
+    "img/Pasted image 20240425075341.png",
+    "img/Pasted image 20240425075336.png",
+    "img/Pasted image 20240425075314.png",
+    "img/Pasted image 20240425075255.png",
+    "img/Pasted image 20240425075246.png",
     "Base de Datos/Algebra Relacional.md",
+    "Base de Datos/Base de Datos.md",
     "Base de Datos/Modelo Entidad-Interrelacion.md",
     "React-Laba-International/React-Laba-International.md",
     "React-Laba-International/03-HTML/HTML.md",
@@ -164,15 +165,7 @@
     "img/osi_vs_tcp9Uug7B.png",
     "img/osi_model.png",
     "img/Pasted image 20240423090432.png",
-    "img/Pasted image 20240421183512.png",
-    "img/Pasted image 20240421183102.png",
-    "img/Pasted image 20240421182629.png",
-    "img/Pasted image 20240423082221.png",
-    "img/Pasted image 20240423081103.png",
-    "img/Pasted image 20240422091819.png",
-    "img/Pasted image 20240421185159.png",
     "img",
-    "Base de Datos/Base de Datos.md",
     "Base de Datos/Arquitectura de 3 capas ANSI.md",
     "Sistemas Operativos/Kernel.md",
     "Taller de Programacion/Concurrencia/Concurrencia.md",
