@@ -18,9 +18,9 @@
 
 ## <span style="color:#c00000">Tipos de Contabilidad</span>
 
-- Financiera: Registros para mostrarselos a agentes externos.
+- Financiera: Registros para mostrárselos a agentes externos.
 - Administrativa: Registros Internos de las empresas. Sirven para la toma de decisiones.
-	- De Costos: Informes de costos. Es un sistema de informacion que registra, recopila, organiza, clasifica, acumula y distribuye en terminos de dinero en forma cronologica.
+	- De Costos: Informes de costos. Es un sistema de información que registra, recopila, organiza, clasifica, acumula y distribuye en términos de dinero en forma cronológica.
 
 # <span style="color:#c00000">Tipos de Cuentas</span>
 - [[Activo]]
@@ -28,11 +28,11 @@
 
 ## <span style="color:#c00000">Patrimonio Neto</span>
 
-> Son las obligaciones hacia los socios o accionistas que posee la organizacion.
+> Son las obligaciones hacia los socios o accionistas que posee la organización.
 
 ## <span style="color:#c00000">Partida Doble</span>
 
-> Todo hecho economico tiene su origen en otro hecho economico, de igual valor, pero de naturaleza contraria.
+> Todo hecho económico tiene su origen en otro hecho económico, de igual valor, pero de naturaleza contraria.
 > En cada movimiento contable intervienen al menos dos cuentas: una de inversion y otra de financiamiento.
 
 
@@ -43,10 +43,10 @@
 
 ### <span style="color:#c00000">Devengamiento VS Cobro/Pago</span>
 
-- El devengamiento es el momento en el que se realiza una transaccion economica, por ejemplo la venta de un servicio.
-- El cobro o pago es el momento en el que ingresa(o egresa) el dinero proveniente de la transaccion economica que lo origino.
+- El devengamiento es el momento en el que se realiza una transacción económica, por ejemplo la venta de un servicio.
+- El cobro o pago es el momento en el que ingresa(o egresa) el dinero proveniente de la transacción económica que lo origino.
 
 ## <span style="color:#c00000">Plan de Cuentas y Manual de Cuentas</span>
 
-- El plan de cuentas es el ordenamiento y enumeracion sistematica de todas las cuentas que se utilizan en la contabilidad de la organizacion.
+- El plan de cuentas es el ordenamiento y enumeración sistemática de todas las cuentas que se utilizan en la contabilidad de la organización.
 - El manual de cuentas consiste en la estructura del Plan de Cuentas, incluyendo el analisis detallado de cada cuenta en particular, con todas sus variantes.

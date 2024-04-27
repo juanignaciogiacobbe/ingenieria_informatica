@@ -7,3 +7,4 @@
 - [[Contabilidad]]
 - [[Cadena de Valor]]
 - [[Costos]]
+- [[Ecosistema de innovacion]]

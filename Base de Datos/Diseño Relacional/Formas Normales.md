@@ -24,6 +24,21 @@ S esta en 5FN -> S esta en 4FN -> ... -> S esta en 1FN
 > <span style="color:#ffff00">Una dependencia funcional es completa</span> si y solo si no es parcial.
 > <span style="color:#ffff00">Atributo primo de una relación</span>: es aquel que es parte de alguna clave candidata de la relación.  
 > Una relación esta en 2FN cuando todos sus atributos no primos tienen dependencia funcional completa de las claves candidatas.
+> Para ver si estas en 2FN o no: primero se obtiene la clave de la relación, y luego se ve si hay dependencias parciales de la clave.
 
 
 ![[Pasted image 20240421105812.png]]
+
+$$\forall \; dependencia \; funcional \; no \; trivial \; X \rightarrow Y \in F:$$
+$$ X \; es\; superclave \; o \; Y-X \; contiene \; solo \; atributos \; primos \; o \; X \; no \; es  \; subclave.$$
+
+## <span style="color:#c00000">3FN</span> 
+> No hay dependencias funcionales transitivas de atributos no primos de una clave candidata.
+
+$$\forall \; dependencia \; funcional \; no \; trivial \; X \rightarrow Y \in F:$$
+$$ X \; es\; superclave \; o \; Y-X \; contiene \; solo \; atributos \; primos.$$
+## <span style="color:#c00000">Forma Normal de Boyce-Codd(FNBC)</span> 
+> No hay dependencias funcionales transitivas de una clave candidata.
+> Una relación esta en FNBC cuando para toda dependencia funcional no trivial X -> Y, X es superclave.
+
+$$\forall \; dependencia \; funcional \; no \; trivial \; X \rightarrow Y \in F: X \; es\; superclave.$$
