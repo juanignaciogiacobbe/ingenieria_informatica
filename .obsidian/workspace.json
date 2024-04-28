@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e96297767c1d1a05",
+        "id": "19e48a1569da12fe",
         "type": "tabs",
         "children": [
           {
-            "id": "376902c8e1f06d3e",
+            "id": "1e32243d5bd25b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Scheduling/Scheduling.md",
+                "file": "Base de Datos/Algebra Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Scheduling/Scheduling.md",
+                "file": "Base de Datos/Algebra Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Scheduling/Scheduling.md",
+                "file": "Base de Datos/Algebra Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Scheduling/Scheduling.md"
+                "file": "Base de Datos/Algebra Relacional.md"
               }
             }
           }
@@ -143,48 +143,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "376902c8e1f06d3e",
+  "active": "1e32243d5bd25b01",
   "lastOpenFiles": [
-    "Base de Datos/Diseño Relacional/Formas Normales.md",
-    "Base de Datos/Diseño Relacional/Algoritmos de Normalizacion.md",
-    "Base de Datos/Diseño Relacional/Algoritmos de calculo de claves.md",
-    "Base de Datos/Diseño Relacional/Dependencias Funcionales.md",
-    "Base de Datos/Diseño Relacional/Diseño Relacional.md",
-    "React-Laba-International/01-internet-basics/TCP.md",
-    "Empresa de Base Tecnologica/Dinero.md",
-    "Empresa de Base Tecnologica/Introduccion a la Economia/Inflacion.md",
-    "Empresa de Base Tecnologica/Finanzas.md",
-    "Empresa de Base Tecnologica/Contabilidad/Contabilidad.md",
-    "Empresa de Base Tecnologica/Empresa de Base Tecnologica.md",
-    "Taller de Programacion/Rustic City Eye.md",
-    "Base de Datos/Modelo Logico Relacional.md",
-    "Base de Datos/Base de Datos.md",
-    "Base de Datos/Algebra Relacional.md",
-    "Base de Datos/Modelo Entidad-Interrelacion.md",
-    "Sistemas Operativos/Sistemas Operativos(SO).md",
-    "img/Pasted image 20240425075842.png",
-    "img/Pasted image 20240425075818.png",
-    "img/Pasted image 20240425075341.png",
-    "img/Pasted image 20240425075336.png",
-    "img/Pasted image 20240425075314.png",
-    "img/Pasted image 20240425075255.png",
-    "img/Pasted image 20240425075246.png",
-    "React-Laba-International/React-Laba-International.md",
-    "React-Laba-International/03-HTML/HTML.md",
-    "React-Laba-International/01-internet-basics/Internet Basics.md",
-    "React-Laba-International/02-Git/Git.md",
-    "React-Laba-International/03-HTML",
-    "React-Laba-International/01-internet-basics/HTTP.md",
-    "React-Laba-International/01-internet-basics/DNS.md",
-    "React-Laba-International/01-internet-basics/Client-Server-Architecture.md",
-    "Taller de Programacion/Taller de Programacion.md",
+    "prueba/asdasd.md",
     "Taller de Programacion/Redes/Introduccion a Redes.md",
-    "img/osi_vs_tcp9Uug7B.png",
-    "img/osi_model.png",
-    "img/Pasted image 20240423090432.png",
+    "prueba",
+    "Empresa de Base Tecnologica/Contabilidad/Activo.md",
+    "prueba",
+    "prueba",
+    "prueba",
+    "Empresa de Base Tecnologica/Ecosistema de innovacion.md",
+    "Empresa de Base Tecnologica/Cadena de Valor/Cadena de Valor.md",
+    "Empresa de Base Tecnologica/Costo/Costo de Oportunidad.md",
+    "Empresa de Base Tecnologica/Introduccion a la Economia/Inflacion.md",
+    "Empresa de Base Tecnologica/Dinero.md",
+    "Empresa de Base Tecnologica/Contabilidad/Contabilidad.md",
+    "Empresa de Base Tecnologica/Contabilidad/Estados Contables.md",
+    "Empresa de Base Tecnologica/Oferta y Demanda/Oferta y Demanda.md",
+    "tp scheduling.md",
+    "Sistemas Operativos/Dual-mode Operation.md",
+    "img/Pasted image 20240427214334.png",
+    "img/Pasted image 20240427213927.png",
+    "Sistemas Operativos/Scheduling/Scheduler.md",
+    "Sistemas Operativos/Proceso.md",
+    "Sistemas Operativos/Concurrencia/Concurrencia.md",
+    "Sistemas Operativos/Concurrencia/Theads.md",
+    "Sistemas Operativos/Kernel.md",
+    "img/Pasted image 20240427190447.png",
+    "Sistemas Operativos/System Calls.md",
+    "img/Pasted image 20240427184802.png",
+    "img/Pasted image 20240427184132.png",
+    "img/Pasted image 20240427184117.png",
+    "img/Pasted image 20240427183833.png",
+    "img/Pasted image 20240427182354.png",
+    "img/Pasted image 20240427181302.png",
+    "Sistemas Operativos/User-mode y Kernel-mode.md",
+    "Sistemas Operativos/Sistemas Operativos(SO).md",
+    "Sistemas Operativos/Virtualizacion.md",
+    "Sistemas Operativos/Time Sharing.md",
+    "Sistemas Operativos/Shell.md",
+    "Sistemas Operativos/Aislamiento.md",
+    "Sistemas Operativos/Ilusionista.md",
+    "img/Pasted image 20240427180207.png",
+    "React-Laba-International/03-HTML",
     "img",
     "Taller de Programacion/Redes"
   ]

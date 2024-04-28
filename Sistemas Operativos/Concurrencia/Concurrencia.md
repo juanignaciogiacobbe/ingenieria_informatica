@@ -1,4 +1,5 @@
 # <span style="color:#c00000">Concurrencia</span> 
+> La idea es escribir un programa concurrente(que tenga varias actividades en simultaneo) como un set de streams de ejecución secuenciales, llamados [[Theads]], que interactuan entre si y comparten resultados.
 
 ## <span style="color:#c00000">Concurrencia VS Paralelismo</span> 
 
@@ -17,7 +18,7 @@
 - <span style="color:#ffff00">Programa concurrente</span>: un conjunto finito de procesos secuenciales.
 - El [[Proceso]] esta compuesto por un conjunto finito de instrucciones atomicas.
 - Al ejecutar una secuencia de instrucciones atomicas que se obtiene al intercalar arbitrariamente las instrucciones atomicas de los procesos que lo componen se da la <span style="color:#ffff00">ejecucion del programa concurrente</span>. 
-	- Este intercalamiento es arbitrario(lo decide el [[Sistemas Operativos(SO)]] a traves del [[Scheduling]]).
+	- Este intercalamiento es arbitrario(lo decide el [[Sistemas Operativos(SO)]] a traves del [[Scheduler]]).
 	- Cada vez que el SO cambia el proceso en ejecucion, ocurre un context-switch.
 
 

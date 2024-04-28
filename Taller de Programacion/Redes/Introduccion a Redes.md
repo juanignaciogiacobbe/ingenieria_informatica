@@ -6,7 +6,6 @@
 - Se usan en apps que implementan el <span style="color:#ffff00">modelo cliente-servidor</span>:
 	- <span style="color:#ffff00">Cliente</span>: es activo porque inicia la interaccion con el servidor.
 	- <span style="color:#ffff00">Servidor</span>: es pasivo porque espera recibir las peticiones de los clientes.
-
  
 ## <span style="color:#c00000">Modelo de capas</span> 
 

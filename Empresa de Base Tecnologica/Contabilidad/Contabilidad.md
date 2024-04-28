@@ -1,12 +1,12 @@
 # <span style="color:#c00000">Contabilidad</span>
 
 > Es una disciplina tecnica que produce informes acerca del patrimonio de cualquier tipo de organizacion, y su evolucion, para la toma de decisiones del ente, tanto internas como externas.
-> Se toman actos y hechos economicos relativos al pasado, presente y los proyectados para la organizacion.
+> Se toman actos y hechos económicos relativos al pasado, presente y los proyectados para la organización.
 
 ## Objetivo: <span style="color:#c00000">Brindar informacion</span>
 
 - Sobre ejercicios pasados para realizar un analisis comparativo.
-- Sobre el ejercicio presente para determinar la situacion economica, financiera y patrimonial.
+- Sobre el ejercicio presente para determinar la situación economica, financiera y patrimonial.
 - Sobre el ejercicio futuro para proyectar los [[Estados Contables]] y tomar decisiones.
 
 ### <span style="color:#c00000">Definiciones importantes</span>

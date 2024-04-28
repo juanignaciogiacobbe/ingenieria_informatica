@@ -1,2 +1,0 @@
-- Los SO proveen un set de servicios comunes para que se puedan compartir recursos de una forma sencilla.
-- Proveen una interfaz de rutinas comunes para el usuario, para tener el mismo "look and feel". 

@@ -1,4 +1,0 @@
-- Se logra con la [[Virtualizacion]]
-- Los SO deben brindar una abstraccion(enmascaramiento) del hardware fisico para simplificar el diseño de las aplicaciones.
-- Nos dan la ilusion de "tener memoria infinita", o de tener todos los procesadores de la maquina enteramente para nosotros.
-- Con esta abstraccion, los SO permiten invisibilizar las reasignaciones de recursos para las distintas aplicaciones corriendo.
