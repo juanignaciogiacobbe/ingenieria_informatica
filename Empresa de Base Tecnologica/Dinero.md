@@ -40,7 +40,7 @@
 ## <span style="color:#c00000">Tasa nominal anual(TNA)</span>
 > Es la tasa de interés que se declara en las operaciones financieras, en la documentación legal, con fines comerciales, etc.
 > El problema de trabajar con ella es que la información que brinda es incompleta ya que no menciona la cantidad de veces que los intereses se capitalizan en el año.
-> Cuando tenemos 2 o mas tasas nominales diferentes y al transformarlas a tasas efectivas en un mismo periodo de tiempo nos dan el mismo valor, estamos hablando de que son tasas equivalentes.
+> Cuando tenemos 2 o mas tasas nominales diferentes y al transformarlas a tasas efectivas en un mismo periodo de tiempo nos dan el mismo valor, estamos hablando de que son <span style="color:#ffff00">tasas equivalentes</span>(las tasas de interés son exponenciales).
 
 ## <span style="color:#c00000">Tasa efectiva anual(TEA)</span>
 > Es la tasa de interés que incluye la cantidad de veces que los intereses se capitalizan en el año.
@@ -55,3 +55,9 @@
 
 ![](https://lh7-us.googleusercontent.com/_jJrmFAVf6arQ7yO_njg1H6-oyhApETnWBYDNVYL-eMmrcJwRgcvfZSrHYSSH2iO4O5lfyBJj3SuB-tL9T0gE0oAdfrsHPgBRrJ0bUWltx4hTTHSWeKbl_BJ0MzKD_-h0p6brVVSuseA-3lZ-LmkbaxI2w=nw) 
 (son 10.000 euros :D)
+
+## <span style="color:#c00000">Como pasar de una tasa equivalente a otra</span> 
+- Al pasar de una tasa nominal a una tasa equivalente lo hacemos dividiendo la tasa nominal por el numero de capitalizaciones.
+- Esta consideración es errónea si queremos pasar de una tasa equivalente a otra equivalente que difiera en el periodo de tiempo.
+
+[[Flujos de efectivo multiples]]

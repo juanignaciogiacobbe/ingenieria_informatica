@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Datos/Algebra Relacional.md",
+                "file": "Empresa de Base Tecnologica/Dinero.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Datos/Algebra Relacional.md",
+                "file": "Empresa de Base Tecnologica/Dinero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Datos/Algebra Relacional.md",
+                "file": "Empresa de Base Tecnologica/Dinero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Datos/Algebra Relacional.md"
+                "file": "Empresa de Base Tecnologica/Dinero.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "1e32243d5bd25b01",
   "lastOpenFiles": [
+    "Empresa de Base Tecnologica/Flujos de efectivo multiples.md",
+    "Empresa de Base Tecnologica/Dinero.md",
+    "Empresa de Base Tecnologica/Empresa de Base Tecnologica.md",
+    "Empresa de Base Tecnologica/Finanzas.md",
+    "tp scheduling.md",
+    "Base de Datos/Algebra Relacional.md",
     "prueba/asdasd.md",
     "Taller de Programacion/Redes/Introduccion a Redes.md",
     "prueba",
@@ -160,11 +166,9 @@
     "Empresa de Base Tecnologica/Cadena de Valor/Cadena de Valor.md",
     "Empresa de Base Tecnologica/Costo/Costo de Oportunidad.md",
     "Empresa de Base Tecnologica/Introduccion a la Economia/Inflacion.md",
-    "Empresa de Base Tecnologica/Dinero.md",
     "Empresa de Base Tecnologica/Contabilidad/Contabilidad.md",
     "Empresa de Base Tecnologica/Contabilidad/Estados Contables.md",
     "Empresa de Base Tecnologica/Oferta y Demanda/Oferta y Demanda.md",
-    "tp scheduling.md",
     "Sistemas Operativos/Dual-mode Operation.md",
     "img/Pasted image 20240427214334.png",
     "img/Pasted image 20240427213927.png",
@@ -184,10 +188,6 @@
     "Sistemas Operativos/User-mode y Kernel-mode.md",
     "Sistemas Operativos/Sistemas Operativos(SO).md",
     "Sistemas Operativos/Virtualizacion.md",
-    "Sistemas Operativos/Time Sharing.md",
-    "Sistemas Operativos/Shell.md",
-    "Sistemas Operativos/Aislamiento.md",
-    "Sistemas Operativos/Ilusionista.md",
     "img/Pasted image 20240427180207.png",
     "React-Laba-International/03-HTML",
     "img",
