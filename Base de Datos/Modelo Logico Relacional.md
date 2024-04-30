@@ -1,15 +1,15 @@
 # <span style="color:#c00000">Modelo Logico Relacional</span>
 
-> Se vincula con la representacion de los datos.
-> Representacion en tablas.
-> Es una formalizacion matematica basada en el concepto de Relacion.
+> Se vincula con la representación de los datos.
+> Representación en tablas.
+> Es una formalizacion matemática basada en el concepto de Relación.
 
 ### <span style="color:#c00000">Definiciones importantes</span> 
-- <span style="color:#ffff00">Dominio</span>: Es el conjunto de valores homogeneos. Ej: $D = \{Bs As, Sevilla, Cordoba\}$.
+- <span style="color:#ffff00">Dominio</span>: Es el conjunto de valores homogéneos. Ej: $D = \{Bs As, Sevilla, Cordoba\}$.
 - <span style="color:#ffff00">Producto cartesiano</span>: A x B se define como el conjunto de pares (a, b) que cumplen que $a \in A$ y $b \in B$.
 - <span style="color:#ffff00">Relacion</span>: Es un subconjunto de un producto cartesiano. Las funciones de matemática son relaciones :D. Se las representan en tablas. 
 - <span style="color:#ffff00">Esquema de Relacion</span>: Cuando se tiene una relación R y una lista de atributos. Se denota como $R(A_{1}, A_{2}, ..., A_{n})$ . Cada uno de los atributos esta asociado a un dominio particular. Los atributos representan en las columnas de las tablas.
-- <span style="color:#ffff00">Tupla</span>: Un elemento de una relacion. Son las filas de las tablas.
+- <span style="color:#ffff00">Tupla</span>: Un elemento de una relación. Son las filas de las tablas.
 
 
 ## <span style="color:#c00000">Restricciones</span> 

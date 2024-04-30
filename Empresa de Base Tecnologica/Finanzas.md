@@ -15,6 +15,7 @@
 - Publicas.
 - Internacionales.
 
+[[Prestamos]]
 ## <span style="color:#c00000">Economico VS Financiero</span>
 
 ![](https://lh7-us.googleusercontent.com/WCoeJHTWMJvYfkFAUy2Vm0cZb37zdX6CPvQaRSiyyXWa9At9yxnqwAicxYs6UWA68sxlYKdlOla72qnz76ZVavfavrHvjrzWsqjcqu3jTVTjBngIALXrZKuWZ_qwV3-GCVfLr-XuRL8Jr2ewPApdC9B4EQ=nw)

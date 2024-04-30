@@ -61,3 +61,11 @@
 - Esta consideración es errónea si queremos pasar de una tasa equivalente a otra equivalente que difiera en el periodo de tiempo.
 
 [[Flujos de efectivo multiples]]
+
+## <span style="color:#c00000">Tasa de Interés e Inflación</span> 
+- Ante la presencia de [[Inflacion]] en la economía, se debe revisar el cálculo de las tasas de interés. La Tasa Efectiva es “Nominal respecto de la inflación”; por lo tanto, debemos calcular el efecto de la inflación en las tasas para obtener la “Tasa Real”.
+- Es importante destacar que es erróneo calcular la Tasa Real como la resta entre la Tasa Efectiva y la Tasa de Inflación (eso es solamente válido para análisis macroeconómicos donde la inflación ronda el 1%-2% anual).
+
+## <span style="color:#c00000">Tasa de Interés y Tipo de Cambio</span> 
+- Es importante destacar el papel que juega el tipo de cambio en las inversiones. Puede darse el caso de que hacemos una inversión en moneda local, atraídos por altos rendimientos y, durante ese período, el tipo de cambio aumente en forma considerable.
+- Como consecuencia de esto, podemos encontrarnos con que, al final de nuestro período de inversión, tengamos una ganancia en moneda local pero cuando dividimos ese monto por el tipo de cambio de ese momento, nos encontremos con menos dinero que al momento de hacer la inversión.
