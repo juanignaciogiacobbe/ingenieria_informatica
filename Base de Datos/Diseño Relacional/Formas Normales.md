@@ -1,18 +1,16 @@
 # <span style="color:#c00000">Formas Normales</span> 
 
 > Son una serie de estructuras con las que un esquema de base de datos puede cumplir o no.
-> Cada forma normal es mas fuerte que las anteriores.
+> Cada forma normal es mas fuerte que las anteriores.<span style="color:#ffff00"> A medida que avanzamos en la normalización, se minimiza la redundancia de datos</span>, una propiedad deseable en todo esquema de DB.
 
 S esta en 5FN -> S esta en 4FN -> ... -> S esta en 1FN
 
 ## <span style="color:#c00000">Normalizacion</span> 
 
 > Proceso a través del cual se convierte un esquema de base de datos en uno equivalente(que preserva toda la información) y que cumple con una determinada formal normal.
-
-#### Objetivos:
-- Preservar la información.
-- Eliminar la redundancia.
-- Evitar las anomalías de ABM.
+> <span style="color:#ffff00">Busca preservar la información, eliminar la redundancia, y evitar las anomalías de ABM.</span>
+> Se parte de un conjunto de dependencias funcionales que supondremos definido por el diseñador de la DB.
+> A partir de estas dependencias, nos interesa generar una descomposición lo menos redundante posible, preservando la información y las dependencias funcionales. Se utilizaran [[Algoritmos de Normalizacion]] para convertir un esquema de DB a 3FN y a FNBC.
 
 ## <span style="color:#c00000">1FN</span> 
 
@@ -31,6 +29,9 @@ S esta en 5FN -> S esta en 4FN -> ... -> S esta en 1FN
 
 $$\forall \; dependencia \; funcional \; no \; trivial \; X \rightarrow Y \in F:$$
 $$ X \; es\; superclave \; o \; Y-X \; contiene \; solo \; atributos \; primos \; o \; X \; no \; es  \; subclave.$$
+
+- La idea seria descomponer la relación para que quede en 2FN. Si una descomposición cumple que para toda instancia posible de R, la junta de las proyecciones sobre los $R_i$ permite recuperar la misma instancia de relación, entonces decimos que la descomposición preserva la información.
+- La descomposición preserva las dependencias funcionales cuando toda dependencia funcional X -> Y en R puede inferirse a partir de dependencias funcionales definidas en los $R_i$.
 
 ## <span style="color:#c00000">3FN</span> 
 > No hay dependencias funcionales transitivas de atributos no primos de una clave candidata.

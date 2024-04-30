@@ -29,12 +29,19 @@
 ### <span style="color:#c00000">Restricciones de Integridad</span> 
 - Se tienen en cuenta para Esquemas de Base de Datos Relacional.
 - <span style="color:#ffff00">Restriccion de Integridad de Entidad</span>: La PK de una relación no puede ser NULL.
-- <span style="color:#ffff00">Restriccion de Integridad Referencial</span>: Cuando un conjunto de atributos FK de una relacion R hace referencia a la clave primaria de otra relación S, entonces para toda tupla de R debe existir una tupla de S cuya PK sea igual al valor de FK, a menos que todos los atributos de FK sean NULL. Entonces, FK se la llama <span style="color:#ffff00">Clave Foranea</span>.  
+- <span style="color:#ffff00">Restriccion de Integridad Referencial</span>: Cuando un conjunto de atributos FK de una relación R hace referencia a la clave primaria de otra relación S, entonces para toda tupla de R debe existir una tupla de S cuya PK sea igual al valor de FK, a menos que todos los atributos de FK sean NULL. Entonces, FK se la llama <span style="color:#ffff00">Clave Foranea</span>.  
 
 
 ## <span style="color:#c00000">Pasaje del Modelo Conceptual al Modelo Relacional</span> 
 - Cada entidad del modelo ER producirá generalmente una relación del modelo relacional.
 - Atributos multivaluados: Se crea una tabla para el atributo.
 
+## <span style="color:#c00000">Problemas que se presentan en esquemas defectuosos</span>
+> Se evitan utilizando conceptos del [[Diseño Relacional]]
 
-[[Diseño Relacional]]
+- Incapacidad para almacenar ciertos hechos.
+- Redundancias -> inconsistencias.
+- Ambigüedades.
+- Perdida de información y dependencias funcionales.
+- Existencia de valores nulos.
+- Aparición, en la DB, de estados que no son validos en el mundo real.

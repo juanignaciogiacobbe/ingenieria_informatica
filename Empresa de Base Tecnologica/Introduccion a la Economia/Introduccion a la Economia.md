@@ -7,8 +7,8 @@
 
 ## <span style="color:#c00000">Tipos de Economia</span>
 
-- <span style="color:#ffff00">De Mercado o Capitalista</span>: Individuos y empresas privadas toman decisiones de producción y consumo.
-- <span style="color:#ffff00">De Estado o Planificada</span>: El gobierno toma las decisiones de producción y distribución.
+- <span style="color:#ffff00">De Mercado o Capitalista</span>: Individuos y empresas privadas toman decisiones de produccion y consumo.
+- <span style="color:#ffff00">De Estado o Planificada</span>: El gobierno toma las decisiones de produccion y distribucion.
 - <span style="color:#ffff00">Mixta</span>: de Mercado y de Estado a la vez.
 
 ## <span style="color:#c00000">M</span><span style="color:#c00000">icroeconomia y Macroeconomia</span>

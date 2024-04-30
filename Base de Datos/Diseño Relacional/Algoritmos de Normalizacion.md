@@ -1,8 +1,8 @@
 # <span style="color:#c00000">Algoritmos de Normalizacion</span> 
 > Supongamos que el diseñador de la DB definió un conjunto de dependencias funcionales F a partir de la semántica. A partir de esas dependencias, nos interesa generar una descomposición lo menos redundante posible, preservando la información y las dependencias funcionales.
 
-## <span style="color:#c00000">Inferencia de Dependencias Funcionales: </span>
-> Pueden ser probados a partir de la definición de [[Dependencias Funcionales]].
+## <span style="color:#c00000">Inferencia de Dependencias Funcionales</span>
+> Pueden ser probados a partir de la definición de dependencias funcionales.
 > Los 3 axiomas son completos: toda dependencia funcional que se puede inferir de F se puede inferir a través de los <span style="color:#c00000">Axiomas de Armstrong</span>:
 - <span style="color:#ffff00">Reflexividad</span>: $Si \; Y \; \subseteq \; X \; inferir \; X \; \rightarrow \; Y$
 - <span style="color:#ffff00">Aumento</span>: $Para \; cualquier \; conjunto \; W, \; de \; X \; \rightarrow \; Y \; inferir \; XW \; \rightarrow \; YW$ 

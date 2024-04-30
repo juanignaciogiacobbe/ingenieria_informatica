@@ -90,5 +90,35 @@
 ### <span style="color:#c00000">Modificaciones</span> 
 - Se realizan con el comando UPDATE.
 - $condition$ puede ser una combinación de condiciones atómicas.
-- Un unico UPDATE puede modificar muchas filas.
+- Un único UPDATE puede modificar muchas filas.
 	![[Pasted image 20240429125155.png]]
+
+## <span style="color:#c00000">WITH RECURSIVE</span> 
+- Amplia el poder expresivo de SQL permitiendo encontrar la clausura transitiva de una consulta.
+- Dada una tabla T que es input de una consulta, permite que el resultado de la misma sea utilizado en el lugar de T para volver a ejecutar la misma consulta. Esto se repite hasta encontrar un punto fijo.
+- <initial_value_query> no puede depender de T.
+- Tanto en WITH como en WITH RECURSIVE puede definirse mas de una tabla auxiliar antes de la consulta.
+- Por cada iteración no se pierde información, sino que se gana.
+
+![[Pasted image 20240430081806.png]]
+
+## <span style="color:#c00000">Funciones de Ventana</span> 
+> Permiten aplicar un procesamiento final a los resultados de una consulta, siguiendo estos pasos:
+1.  Dividiéndolos en grupos, llamados particiones.
+2. Ordenando internamente cada partición.
+3. Cruzando información entre las filas de cada partición.
+
+- A cada atributo del SELECT de una consulta se le puede aplicar una función de ventana distinta, o bien puede no aplicarsele función alguna.
+
+### <span style="color:#c00000">Funciones de Ventana de única partición</span> 
+- Se considera a todo el resultado como una única partición.
+	![[Pasted image 20240430083450.png]]
+- Esto ordena el resultado de la consulta por el atributo $A_j$ y para cada fila imprime el resultado de una función de agregación $f(A_i)$ o de una función de ventana, $w([A_i], ...)$.
+- Se pueden utilizar las funciones de ventana RANK, ROW_NUMBER, $LAG(A_i, offset)$, etc.
+- Para cada columna a la que queremos aplicar una función de ventana debemos repetir la estructura OVER (ORDER BY ...), a la que llamamos ventana.
+- A diferencia del GROUP BY, el OVER (ORDER BY ...) no agrupa, con lo cual no cambiara la cantidad de filas en el resultado.
+
+### <span style="color:#c00000">Funciones de Ventana con multiples particiones</span>
+- Antes de aplicar cada ventana se puede agrupar el resultado por el valor de un conjunto de atributos.
+- A cada uno de estos grupos se lo denomina partición.
+	![[Pasted image 20240430084604.png]]

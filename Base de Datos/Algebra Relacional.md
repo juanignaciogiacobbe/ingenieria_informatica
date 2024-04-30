@@ -1,8 +1,9 @@
 # <span style="color:#c00000">Algebra Relacional</span>
 
 - Provee un marco formal de operaciones para el [[Modelo Logico Relacional]].
-- Se emplea como base para optimizar la ejecución de consultas.
+- Se emplea como base para optimizar la ejecución de consultas en los DBMS.
 - Especifica los procedimientos de consulta de datos a partir de un conjunto de operaciones.
+- Algunos de sus conceptos se han incorporado a [[SQL]].
 
 ## <span style="color:#c00000">Operaciones</span> 
 > Una operación en el contexto del modelo relacional, es una función cuyos operandos son una o mas relaciones, y cuyo resultado es también una relación.
