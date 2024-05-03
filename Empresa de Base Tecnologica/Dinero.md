@@ -60,8 +60,14 @@
 ## <span style="color:#c00000">Como pasar de una tasa equivalente a otra</span> 
 - Al pasar de una tasa nominal a una tasa equivalente lo hacemos dividiendo la tasa nominal por el numero de capitalizaciones.
 - Esta consideración es errónea si queremos pasar de una tasa equivalente a otra equivalente que difiera en el periodo de tiempo.
+## <span style="color:#c00000">Flujos de efectivo multiples</span> 
+- Generalmente necesitamos conocer el valor presente o futuro de un flujo de dinero que posee diferentes valores como también diferentes signos.
+- La forma de resolver esto es simple pero tediosa: se llevan todos los flujos de dinero a la fecha buscada y se suman algebraicamente.
 
-[[Flujos de efectivo multiples]]
+### <span style="color:#c00000">Anualidades</span> 
+- Todas las cuotas son iguales(su signo también), están separadas a la misma distancia de tiempo, y tienen las mismas tasas.
+- Ej: comprar un producto en 12 cuotas sin interés.
+- Cuando una anualidad es muy grande, hablamos de una perpetuidad.
 
 ## <span style="color:#c00000">Tasa de Interés e Inflación</span> 
 - Ante la presencia de [[Inflacion]] en la economía, se debe revisar el cálculo de las tasas de interés. La Tasa Efectiva es “Nominal respecto de la inflación”; por lo tanto, debemos calcular el efecto de la inflación en las tasas para obtener la “Tasa Real”.

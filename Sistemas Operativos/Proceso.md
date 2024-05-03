@@ -33,7 +33,8 @@
 
 
 ## <span style="color:#c00000">Virtualizacion de memoria</span>
-- Le hace creer al proceso que este tiene toda la memoria disponible para ser reservada y usada como si este estuviera siendo ejecutado solo en la computadora.
+- [[Address Space]]
+- El SO le hace creer al proceso que este tiene toda la memoria disponible para ser reservada y usada como si este estuviera siendo ejecutado solo en la computadora.
 - Los procesos se dividen en 4 segmentos: instrucciones del programa, variables globales, heap y stack. Todos estos segmentos pertenecientes a un proceso se denomina address space del proceso.
 
 	![[Pasted image 20240418203152.png]]

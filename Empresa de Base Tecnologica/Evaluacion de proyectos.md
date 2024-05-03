@@ -1,5 +1,5 @@
 # <span style="color:#c00000">Evaluacion de Proyectos</span> 
-> La adquisición de un [[Activo]] que generara [[Dinero]]. El análisis parte de la propuesta de un proyecto, el cual se evalúa, y en base a ese análisis, se toma la decision de hacerlo o no. 
+> La adquisición de un activo que generara [[Dinero]]. El análisis parte de la propuesta de un proyecto, el cual se evalúa, y en base a ese análisis, se toma la decision de hacerlo o no. 
 > Un proyecto puede ser un producto o servicio nuevo, una reducción de costos, el reemplazo de maquinas, etc.
 > Si el proyecto es beneficioso para la organización, al aceptarlo, la organización pasara a valer mas de lo que valía antes.
 

@@ -14,7 +14,7 @@
 ## <span style="color:#c00000">M</span><span style="color:#c00000">icroeconomia y Macroeconomia</span>
 
 - La <span style="color:#ffff00">microeconomia</span> comprende el comportamiento, acciones y decisiones de los agentes individuales(personas, familias y organizaciones), y sus relaciones e interacciones en el [[Mercado]].
-- La <span style="color:#ffff00">macroeconomia</span> comprende el comportamiento, estructura y capacidad de variables agregadas ([[Producto Bruto Interno(PBI)]], [[Inflacion]], crecimiento económico, tasa de empleo/desempleo, [[Tasa de Interes]], deuda privada y publica, etc.).
+- La <span style="color:#ffff00">macroeconomia</span> comprende el comportamiento, estructura y capacidad de variables agregadas ([[Producto Bruto Interno(PBI)]], [[Inflacion]], crecimiento económico, tasa de empleo/desempleo, tasa de interés, deuda privada y publica, etc.).
 
 ## <span style="color:#c00000">Economia Positiva y Normativa</span> 
 ![[Pasted image 20240502073718.png]]

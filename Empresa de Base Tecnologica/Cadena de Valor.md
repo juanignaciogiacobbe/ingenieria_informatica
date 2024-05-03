@@ -6,7 +6,6 @@
 
 ![](https://lh7-us.googleusercontent.com/cRB165RoeUaojpKLq0wXV4fH5oJg5bUweE0iXTngiYRGov9Bzc22FC_QIt2MHPDmw1BQbywrAVblGJ9vzemCjfNF1IHTaSkpyN7nwoutlapMhd8yZdGxkxM3Wybb2KpNEQGcbuYVhxjXyd-ImQOVoQSNyA=nw)
 
-## <span style="color:#c00000">Sistema de Valor</span>
 
 ![](https://lh7-us.googleusercontent.com/WAoxYOkU5m4K1hdsCWmRVhSsy--8e6q_S98uakgF9GQ42wuSTsutRZ2b2UJKZckvmtoNYBchYipUjSlXx31hV2_gS1NrDjX-iKhmXIS3z_c1p0ivkQG-cRnYub_0g3pOiH4D-I0cMBpA9oRLkH_WMI-ONQ=nw)
 

@@ -18,6 +18,29 @@
 7. Vigilancia tecnológica.
 
 
+## <span style="color:#c00000">Valor Agregado</span> 
+
+> Diferencia entre el valor total de los insumos o materias primas utilizados en la producción de un bien o la prestación de un servicio y el valor total del producto final.
+> Es el valor que se agrega a través del proceso de producción o servicio.
+> Es el eje de las EBT, debido a que pueden lograr un alto impacto en lo que producen.
+
+### <span style="color:#c00000">Por que es importante</span> 
+
+- <span style="color:#ffff00">Medición de la eficiencia</span>: gasto menos recursos, y produzco mas.
+- <span style="color:#ffff00">Competitividad</span>: si rompes la hegemonía, explota la competitividad en ese [[Mercado]].
+- <span style="color:#ffff00">Precio y margen</span>: puedo aumentar el precio a mayor valor agregado.
+- <span style="color:#ffff00">Satisfacción del cliente</span>.
+
+### <span style="color:#c00000">Valor Agregado en EBTs</span> (donde puede aparecer)
+
+- Innovación y tecnología avanzada: utilizo tecnología avanzada para innovar en algún mercado.
+- Personalización: mejoro la satisfacción del cliente y la utilidad percibida. <span style="color:#ffff00">"Una empresa no vende productos y servicios, sino soluciones"</span>.
+- Eficiencia y automatización: puedo reducir [[Costos]] y aumentar la productividad.
+- Garantizar seguridad y privacidad.
+- Creación de ecosistemas y plataformas "amigables".
+- Rapida adaptación al cambio.
+- Conciencia de Marca y Confianza.
+
 ### <span style="color:#c00000">Primera parte de la materia</span>
 - [[Introduccion a la Economia]]
 - [[Dinero]]

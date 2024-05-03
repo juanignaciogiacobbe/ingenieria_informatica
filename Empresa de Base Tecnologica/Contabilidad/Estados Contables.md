@@ -3,7 +3,7 @@
 # <span style="color:#c00000">Balance</span>
 
 > Es un estado contable que refleja el estado patrimonial de un ente durante un periodo determinado.
-> Es una fotografia de los bienes, derechos y obligaciones de un ente en un instante determinado.
+> Es una fotografía de los bienes, derechos y obligaciones de un ente en un instante determinado.
 > Refleja las inversiones del ente y como fueron financiadas.
 > En la cuenta Disponibilidades se ve el aspecto financiero.
 
@@ -17,10 +17,10 @@ $$Activo = Pasivo + Patrimonio Neto$$
 
 ## <span style="color:#c00000">Cuadro de Resultados</span> 
 
-> Es un estado contable que refleja las ganancias y perdidas de un ente durante un periodo determinado.
-> Esta formado por todas las cuentas transitorias del periodo en cuestion.
-> El resultado es la cuenta "Utilidades" que se ubica en el Patrimonio Neto y es la unica cuenta transitoria del balance.
-> En la cuenta Utilidades se ve reflejado el aspecto economico.
+> Es un estado contable que refleja las ganancias y pérdidas de un ente durante un periodo determinado.
+> Esta formado por todas las cuentas transitorias del periodo en cuestión.
+> El resultado es la cuenta "Utilidades" que se ubica en el Patrimonio Neto y es la única cuenta transitoria del balance.
+> En la cuenta Utilidades se ve reflejado el aspecto económico.
 
 
 ![](https://lh7-us.googleusercontent.com/Jx5gJlo5KLVDKWrj3oAqaPe7NRGIyFnihu_mo4sfmTyxwpavCM0-V53qLtqloNDR9UyqAnvlUEtg4JA6Tz3dwhv2DXBXhh26v1NOEfA9svByyY5qh8aBGr3vrubq-uI9DegSW7AM-hy7f8I9ZR_KLuo_KA=nw)
