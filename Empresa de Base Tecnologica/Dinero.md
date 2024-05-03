@@ -5,7 +5,7 @@
 
 ## <span style="color:#c00000">Funciones del Dinero</span>
 - <span style="color:#ffff00">Medio de pago</span>: cuándo un bien o servicio es requerido con el solo propósito de usarlo para ser intercambiado por otras cosas. Además, el dinero debe ser un bien ligero y fácil de almacenar y de transportar.
-- <span style="color:#ffff00">Unidad de cuenta</span>: permite valorizar todos los bienes y servicios en una escala común. Es una función muy útil para la contabilidad.
+- <span style="color:#ffff00">Unidad de cuenta</span>: permite valorizar todos los bienes y servicios en una escala común. Es una función muy útil para la [[Contabilidad]].
 - <span style="color:#ffff00">Depósito de valor</span>: morada temporaria del poder de compra.
 
 ## <span style="color:#c00000">Caracteristicas del Dinero</span>
@@ -14,21 +14,17 @@
 - <span style="color:#ffff00">Riesgo</span>: Evalúa la posibilidad de afectar su calidad como reserva de valor.
 
 ## <span style="color:#c00000">Agregados Monetarios</span>
-
 ![[Pasted image 20240418135714.png]]
 
 ![[Pasted image 20240418135726.png]]
 
+## <span style="color:#c00000">Agentes</span>
+![[Pasted image 20240502075325.png]]
+
 ## <span style="color:#c00000">Por que se</span> [[Demanda]] <span style="color:#c00000">Dinero?</span>
 - <span style="color:#ffff00">Transacciones</span>: Compra de bienes y servicios.(Ingreso de dinero)
 - <span style="color:#ffff00">Precaucion</span>: Para cubrirse ante una necesidad imprevista. (Ingreso de dinero)
-- <span style="color:#ffff00">Especulacion</span>: [[Costo de Oportunidad]] de tener liquidez perfecta frente a tasas de interés altas.
-
-## <span style="color:#c00000">Valor nominal del Dinero</span>
-> Es el valor que tiene este en un momento determinado del tiempo sin considerar otras variables como la tasa de interés, la [[Inflacion]], el tipo de cambio, etc.
-
-## <span style="color:#c00000">Valor Tiempo del Dinero</span>
-> Es el valor que tiene este teniendo en cuenta que una misma suma de dinero vale mas hoy que en el futuro debido a que, en el presente, puedo tomar ese dinero y ponerlo a generar rendimientos a futuro.
+- <span style="color:#ffff00">Especulacion</span>: Costo de oportunidad de tener liquidez perfecta frente a tasas de interés altas.
 
 ## <span style="color:#c00000">Tasas de Interes</span>
 > Representa el costo del dinero en un periodo de tiempo determinado. También se usa como medida de riesgo de una inversion.
@@ -36,6 +32,11 @@
 
 - A mayor riesgo -> Mayor tasa de interés.
 - A menor riesgo -> Menor tasa de interés.
+## <span style="color:#c00000">Valor nominal del Dinero</span>
+> Es el valor que tiene este en un momento determinado del tiempo sin considerar otras variables como la tasa de interés, la [[Inflacion]], el tipo de cambio, etc.
+
+## <span style="color:#c00000">Valor Tiempo del Dinero</span>
+> Es el valor que tiene este teniendo en cuenta que una misma suma de dinero vale mas hoy que en el futuro debido a que, en el presente, puedo tomar ese dinero y ponerlo a generar rendimientos a futuro.
 
 ## <span style="color:#c00000">Tasa nominal anual(TNA)</span>
 > Es la tasa de interés que se declara en las operaciones financieras, en la documentación legal, con fines comerciales, etc.
@@ -64,7 +65,7 @@
 
 ## <span style="color:#c00000">Tasa de Interés e Inflación</span> 
 - Ante la presencia de [[Inflacion]] en la economía, se debe revisar el cálculo de las tasas de interés. La Tasa Efectiva es “Nominal respecto de la inflación”; por lo tanto, debemos calcular el efecto de la inflación en las tasas para obtener la “Tasa Real”.
-- Es importante destacar que es erróneo calcular la Tasa Real como la resta entre la Tasa Efectiva y la Tasa de Inflación (eso es solamente válido para análisis macroeconómicos donde la inflación ronda el 1%-2% anual).
+- Es erróneo calcular la Tasa Real como la resta entre la Tasa Efectiva y la Tasa de Inflación (eso es solamente válido para análisis macroeconómicos donde la inflación ronda el 1%-2% anual).
 
 ## <span style="color:#c00000">Tasa de Interés y Tipo de Cambio</span> 
 - Es importante destacar el papel que juega el tipo de cambio en las inversiones. Puede darse el caso de que hacemos una inversión en moneda local, atraídos por altos rendimientos y, durante ese período, el tipo de cambio aumente en forma considerable.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8c36e374a86c28a",
+        "id": "0743b7a713ff5d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "242f3ffe8a51e946",
+            "id": "4a4d98ff760f5a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Datos/Base de Datos.md",
+                "file": "Base de Datos/Algebra Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de Datos/Base de Datos.md",
+                "file": "Base de Datos/Algebra Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de Datos/Base de Datos.md",
+                "file": "Base de Datos/Algebra Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de Datos/Base de Datos.md"
+                "file": "Base de Datos/Algebra Relacional.md"
               }
             }
           }
@@ -147,48 +147,48 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "242f3ffe8a51e946",
+  "active": "4a4d98ff760f5a3a",
   "lastOpenFiles": [
-    "Base de Datos/Base de Datos.md",
-    "Base de Datos/Diseño Relacional/Algoritmos de Normalizacion.md",
+    "Base de Datos/SQL.md",
     "Base de Datos/Diseño Relacional/Formas Normales.md",
     "Base de Datos/Diseño Relacional/Diseño Relacional.md",
-    "Base de Datos/Algebra Relacional.md",
-    "Base de Datos/SQL.md",
-    "Base de Datos/Modelo Logico Relacional.md",
-    "Base de Datos/Modelo Conceptual.md",
-    "Base de Datos/DataBase Management System(DBMS).md",
-    "Base de Datos/Diseño Relacional/Algoritmos de calculo de claves.md",
-    "Base de Datos/Diseño Relacional/Dependencias Funcionales.md",
-    "Base de Datos/Arquitectura de 3 capas ANSI.md",
-    "img/Pasted image 20240430084604.png",
-    "img/Pasted image 20240430083450.png",
-    "img/Pasted image 20240430081806.png",
-    "img/Pasted image 20240430081754.png",
+    "Sistemas Operativos/Shell.md",
+    "Pasted image 20240502085344.png",
+    "img/Pasted image 20240502085321.png",
+    "img/Pasted image 20240502085227.png",
+    "img/Pasted image 20240502085201.png",
+    "img/Pasted image 20240502085123.png",
+    "img/Pasted image 20240502084947.png",
+    "img/Pasted image 20240502084837.png",
+    "img/Pasted image 20240502082125.png",
+    "img/Pasted image 20240502082015.png",
+    "Empresa de Base Tecnologica/Contabilidad/Contabilidad.md",
+    "Empresa de Base Tecnologica/Empresa de Base Tecnologica.md",
+    "Empresa de Base Tecnologica/Mercado.md",
+    "Empresa de Base Tecnologica/Oferta y Demanda/Elasticidad.md",
+    "img/Pasted image 20240502080019.png",
+    "Empresa de Base Tecnologica/Mercados/Competencia Imperfecta.md",
+    "Empresa de Base Tecnologica/Mercados/Competencia Perfecta.md",
+    "Empresa de Base Tecnologica/Introduccion a la Economia/Inflacion.md",
+    "Empresa de Base Tecnologica/Dinero.md",
     "Empresa de Base Tecnologica/Introduccion a la Economia/Introduccion a la Economia.md",
     "Empresa de Base Tecnologica/Ecosistema de innovacion.md",
-    "Empresa de Base Tecnologica/Dinero.md",
-    "Empresa de Base Tecnologica/Finanzas.md",
-    "Empresa de Base Tecnologica/Introduccion a la Economia/Inflacion.md",
-    "Empresa de Base Tecnologica/Prestamos.md",
-    "img/Pasted image 20240429165715.png",
-    "img/Pasted image 20240429165403.png",
-    "img/Pasted image 20240429164922.png",
-    "img/Pasted image 20240429164510.png",
+    "Empresa de Base Tecnologica/Oferta y Demanda/Oferta.md",
+    "Empresa de Base Tecnologica/Oferta y Demanda/Oferta y Demanda.md",
+    "Empresa de Base Tecnologica/Oferta y Demanda/Demanda.md",
+    "Empresa de Base Tecnologica/Tasa de Interes.md",
+    "Empresa de Base Tecnologica/Introduccion a la Economia/Producto Bruto Interno(PBI).md",
+    "Empresa de Base Tecnologica/Costo/Costo de Oportunidad.md",
+    "Empresa de Base Tecnologica/Factores de Produccion.md",
+    "Empresa de Base Tecnologica/Evaluacion de proyectos.md",
     "Empresa de Base Tecnologica/Flujos de efectivo multiples.md",
-    "img/Pasted image 20240429125155.png",
-    "img/Pasted image 20240429124938.png",
-    "Empresa de Base Tecnologica/Empresa de Base Tecnologica.md",
-    "tp scheduling.md",
-    "prueba/asdasd.md",
-    "Taller de Programacion/Redes/Introduccion a Redes.md",
-    "prueba",
+    "Empresa de Base Tecnologica/Costos.md",
+    "Empresa de Base Tecnologica/Contabilidad/Pasivo.md",
     "Empresa de Base Tecnologica/Contabilidad/Activo.md",
     "prueba",
     "prueba",
     "prueba",
-    "Empresa de Base Tecnologica/Cadena de Valor/Cadena de Valor.md",
-    "Empresa de Base Tecnologica/Costo/Costo de Oportunidad.md",
+    "prueba",
     "React-Laba-International/03-HTML",
     "img",
     "Taller de Programacion/Redes"

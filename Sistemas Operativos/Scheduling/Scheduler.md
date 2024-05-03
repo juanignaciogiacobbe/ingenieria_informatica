@@ -5,7 +5,7 @@
 
 ## <span style="color:#c00000">Scheduling Metrics</span> 
 
-- <span style="color:#ffff00">Turnaround Time</span>: es el tiempo que tarda en completarse un job menos el tiempo en el cual arriba al sistema. Es una metrica de performance.
+- <span style="color:#ffff00">Turnaround Time</span>: es el tiempo que tarda en completarse un job menos el tiempo en el cual arriba al sistema. Es una métrica de performance.
 	$T_{turnaround} = T_{completion} - T_{arrival}$
 	
 - <span style="color:#ffff00">Response time</span>: Es el tiempo desde que llega un job a un sistema hasta que es scheduled.

@@ -1,6 +1,6 @@
 # <span style="color:#c00000">Oferta</span>
 
-> Cantidad de bienes o servicios que los vendedores(ofertantes) estan dispuestos a vender, a diferentes precios, en un determinado periodo de tiempo.
+> Cantidad de bienes o servicios que los vendedores(ofertantes) están dispuestos a vender, a diferentes precios, en un determinado periodo de tiempo.
 
 ## <span style="color:#c00000">Ley de Oferta</span>
 

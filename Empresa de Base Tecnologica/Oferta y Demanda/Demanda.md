@@ -1,6 +1,6 @@
 # <span style="color:#c00000">Demanda</span>
 
-> Cantidad de bienes o servicios que los compradores(demandantes) estan dispuestos a adquirir, a diferentes precios, en un determinado periodo de tiempo.
+> Cantidad de bienes o servicios que los compradores(demandantes) están dispuestos a adquirir, a diferentes precios, en un determinado periodo de tiempo.
 
 ## <span style="color:#c00000">Ley de Demanda</span>
 

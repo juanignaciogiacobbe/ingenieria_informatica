@@ -1,7 +1,8 @@
 # <span style="color:#c00000">Elasticidad</span>
 
 > Mide la sensibilidad de una variable con respecto a otra variable.
-> Es una cifra que nos indica la variacion porcentual que experimentara una variable como respuesta a la variacion de otra variable en un 1%.
+> Es una cifra que nos indica la variación porcentual que experimentara una variable como respuesta a la variación de otra variable en un 1%.
+> Tiene un componente mucho mas estadístico que económico. Se quiere ver "a tiempo real" como varia la economía, y proyectar a futuro como va a ser la reacción del producto.
 
 ## Elasticidad-Precio de la [[Demanda]]
 
