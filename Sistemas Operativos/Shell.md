@@ -1,6 +1,13 @@
 # <span style="color:#c00000">Shell</span> 
+- Es el primer programa que se ejecuta(UNIX) en modo usuario -> ejecuta el comando de login. Captura las teclas que son presionadas en el teclado y los traduce a nombres de comandos.
+- Ejecuta los comandos buscando en ciertos directorios en una determinada secuencia.
+- NO forma parte del [[Kernel]] del SO.
 - Interprete de comandos -> Dado un array de chars, lo interpreta y construye un comando ejecutable.
 - Tiene capacidad de redireccionamiento de flujo estándar y soporta concatenación de comandos.
+## <span style="color:#c00000">Comandos interpretables</span>
+- Comandos ejecutables: programas simples como ls.
+- Shell scripts: archivos ejecutables, consistente en lineas de comandos ejecutables.
+- Estructuras de control del Shell(if, then, else_if).
 
 ## <span style="color:#c00000">Ejecución de la shell</span>
 1. Un proceso principal se forkea, y se realiza un exec del comando enviado.

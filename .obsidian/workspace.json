@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2581646a5ab55d5e",
+        "id": "fa6b9f75c00dc2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "a9f9e6e3bb5932a1",
+            "id": "2d19307dd231d26a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Proceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99f373ef93203560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/Address Space.md",
+                "file": "Sistemas Operativos/File System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Address Space.md",
+                "file": "Sistemas Operativos/File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Address Space.md",
+                "file": "Sistemas Operativos/File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Address Space.md"
+                "file": "Sistemas Operativos/File System.md"
               }
             }
           }
@@ -160,44 +147,44 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "99f373ef93203560",
+  "active": "2d19307dd231d26a",
   "lastOpenFiles": [
-    "Pasted image 20240503181002.png",
+    "Sistemas Operativos/Kernel.md",
+    "Sistemas Operativos/File System.md",
+    "Sistemas Operativos/Scheduling/Multi-level Feedback Queue.md",
+    "Sistemas Operativos/Concurrencia/Problemas de la Concurrencia.md",
+    "Sistemas Operativos/Concurrencia/Theads.md",
+    "Sistemas Operativos/Concurrencia/Concurrencia.md",
+    "Sistemas Operativos/Virtualizacion/Address Space.md",
     "Sistemas Operativos/Proceso.md",
-    "Sistemas Operativos/Time Sharing.md",
+    "Sistemas Operativos/Scheduling/Scheduler.md",
+    "img/Pasted image 20240517094259.png",
+    "Sistemas Operativos/Scheduling/Uniprocessor Scheduling.md",
+    "img/Pasted image 20240517091220.png",
+    "img/Pasted image 20240517090816.png",
     "Sistemas Operativos/Sistemas Operativos(SO).md",
-    "Sistemas Operativos/Address Space.md",
     "Sistemas Operativos/System Calls.md",
-    "img/Pasted image 20240503175549.png",
-    "img/Pasted image 20240503175314.png",
-    "img/Pasted image 20240503175259.png",
-    "Empresa de Base Tecnologica/Contabilidad/Contabilidad.md",
+    "img/Pasted image 20240516125919.png",
+    "img/Pasted image 20240516125757.png",
+    "img/Pasted image 20240516125513.png",
+    "img/Pasted image 20240516124305.png",
+    "img/Pasted image 20240516095522.png",
+    "img/Pasted image 20240516095210.png",
+    "img/Pasted image 20240516094635.png",
+    "Sistemas Operativos/Shell.md",
+    "Sistemas Operativos/Dual-mode Operation.md",
+    "Sistemas Operativos/Virtualizacion/Virtualizacion.md",
+    "Multiprogramacion y Time Sharing.md",
+    "Sistemas Operativos/Time Sharing.md",
+    "tp scheduling.md",
+    "Empresa de Base Tecnologica/Contabilidad/Estados Contables.md",
+    "Empresa de Base Tecnologica/Evaluacion de proyectos.md",
+    "Empresa de Base Tecnologica/Mercado.md",
     "Empresa de Base Tecnologica/Finanzas.md",
     "Empresa de Base Tecnologica/Costos.md",
-    "Empresa de Base Tecnologica/Evaluacion de proyectos.md",
-    "Activo.md",
-    "Empresa de Base Tecnologica/Introduccion a la Economia/Introduccion a la Economia.md",
-    "Empresa de Base Tecnologica/Prestamos.md",
-    "Empresa de Base Tecnologica/Dinero.md",
-    "Empresa de Base Tecnologica/Flujos de efectivo multiples.md",
-    "Empresa de Base Tecnologica/Tasa de Interes.md",
-    "Empresa de Base Tecnologica/Empresa de Base Tecnologica.md",
-    "Empresa de Base Tecnologica/Ecosistema de innovacion.md",
-    "Empresa de Base Tecnologica/Valor Agregado.md",
-    "Base de Datos/Diseño Relacional/Algoritmos de Normalizacion.md",
-    "Base de Datos/Diseño Relacional/Formas Normales.md",
-    "Base de Datos/Diseño Relacional/Diseño Relacional.md",
     "Empresa de Base Tecnologica/Cadena de Valor.md",
-    "Empresa de Base Tecnologica/Contabilidad/Estados Contables.md",
-    "img/Pasted image 20240503110233.png",
-    "Empresa de Base Tecnologica/Contabilidad/Activo.md",
-    "Empresa de Base Tecnologica/Contabilidad/Pasivo.md",
-    "img/Pasted image 20240502085344.png",
-    "img/Pasted image 20240502085321.png",
-    "img/Pasted image 20240502085227.png",
-    "img/Pasted image 20240502085201.png",
-    "img/Pasted image 20240502085123.png",
-    "img/Pasted image 20240502084947.png",
+    "Empresa de Base Tecnologica/Dinero.md",
+    "Sistemas Operativos/Virtualizacion",
     "prueba",
     "prueba",
     "prueba",

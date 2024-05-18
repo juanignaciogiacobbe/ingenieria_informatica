@@ -5,7 +5,7 @@
 >  Afrontan riesgos tecnológicos importantes e incurren en esfuerzos sustanciales de I+D.
 > <span style="color:#ffff00">Basan su actividad en la producción y venta de nuevos procesos, productos o servicios de alto valor agregado</span> que parten del conocimiento adquirido o los resultados obtenidos en el ámbito de la propia universidad.
 
-![[Pasted image 20240502072903.png]]
+	![[Pasted image 20240502072903.png]]
 
 
 ## <span style="color:#c00000">Proceso de creacion de una EBT</span>

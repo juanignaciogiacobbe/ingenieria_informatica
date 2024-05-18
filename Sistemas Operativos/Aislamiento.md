@@ -1,1 +1,0 @@
-> Es posible si hay una forma de limitar a los programas ejecutandose en user-mode, directamente cambiando su nivel de privilegio
