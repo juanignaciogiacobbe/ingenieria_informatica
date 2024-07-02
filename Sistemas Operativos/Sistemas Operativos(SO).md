@@ -86,7 +86,7 @@
 - [[Proceso]]
 - [[Kernel]]
 - [[Scheduler]]
-- [[Concurrencia]]
+- [[Sistemas Operativos/Concurrencia/Concurrencia]]
 - [[File System]]
 ## <span style="color:#c00000">Trabajos Practicos</span> 
 - [[Shell]]

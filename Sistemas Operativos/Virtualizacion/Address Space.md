@@ -99,3 +99,13 @@
 
 ### <span style="color:#c00000">Address Translation con Tabla de Hash por Software</span> 
 ![[Pasted image 20240516125919.png]]
+
+## <span style="color:#c00000">Hacia una eficiente Address Translation</span> 
+- Los mecanismos de traducción de direcciones de memoria suelen hacerse de una manera poco practica para el procesador.
+- Uno de los problemas del address translation reside en la velocidad de la traducción, para ello se utilizan técnicas que mejoran la velocidad de esta traducción. 
+- Para mejorar esto, se usara una memoria cache, que consiste en una copia de ciertos datos que pueden ser accedidos mas de una vez mas rápidamente. El mecanismo de hardware utilizado se llama Translation-Lookaside Buffer(TLB). 
+
+### <span style="color:#c00000">Translation-Lookaside Buffer(TLB)</span> 
+- La TLB es parte de la MMU y es simplemente un mecanismo de cache de las traducciones mas utilizadas entre los pares virtual to physical address.
+- Por cada referencia a la memoria virtual, el hardware primero chequea la TLB para ver si esa traducción esta guardada ahí; si es así la traducción se hace rápidamente sin tener que consultar a la page table.
+- Es una pequeña tabla a nivel hardware que contiene los resultados de la recientes traducciones de memorias realizadas. Cada entrada de la tabla mapea una virtual page a una physical page.

@@ -51,3 +51,7 @@
 - [[Costos]]
 - [[Ecosistema de innovacion]]
 - [[Evaluacion de proyectos]]
+
+### <span style="color:#c00000">Segunda parte de la materia</span>  
+- [[Derecho]]
+- [[Derecho Civil]]

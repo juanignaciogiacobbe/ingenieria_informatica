@@ -19,3 +19,7 @@
 - **Concurrencia**: permitir el acceso en simultaneo de muchos users.
 - **Recuperación** ante fallas.
 - **Soporte** **transaccional**
+
+
+## <span style="color:#c00000">El universo de los DBMS</span> 
+![[Pasted image 20240521143530.png]]
